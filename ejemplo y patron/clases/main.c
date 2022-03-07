@@ -17,4 +17,5 @@ int main(void)
     }
     cantidadmandm(maquina_chocolatitos);
     coloresmandm(maquina_chocolatitos);
+    
 }
